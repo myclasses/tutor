@@ -31,5 +31,6 @@ DESCOMITAR ARUIVOS:
 	APÓS CRIADA A TAG DEVEMOS FAZER A TRANSFERÊNCIA DA VERSÃO COM O COMANDO CHECKOUT
 		-git checkout <nome_da_tag>
 
+
 Edição por Rodrigo no Branch Developer00
-Alteração 2 Rodrigo
+
