@@ -32,4 +32,3 @@ DESCOMITAR ARUIVOS:
 		-git checkout <nome_da_tag>
 
 Estamos testando os comandos 17:12 13/03
-Rodrigo alteração
